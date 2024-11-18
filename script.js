@@ -4,6 +4,7 @@ console.clear();
 
 const createMail = document.getElementById("create-email");
 const emailList = document.getElementById("email-list");
+const resetMail = document.getElementById("reset-email");
 let newArray = [];
 
 
